@@ -1,11 +1,11 @@
-# filetree
+# arborescence de fichiers
 
-A filetree for r/datacurator
+Une arborescence de fichiers en français pour r/datacurator.
 
-Hello and welcome to the [r/datacurator](https://reddit.com/r/datacurator) filetree repository.
+Bonjour et bienvenue au dépôt arborescence de fichiers.
 
-We aim to create a unified filetree for all kinds of data, which should help in storing, categorising and retrieving.
+Notre but est de créer une arborescence de fichiers unifiée pour toutes sortes de données, qui devrait aider à stocker, catégoriser et récupérer.
 
 ---
 
-If you are interested in joining our efforts, please read the [CONTRIBUTING.md](CONTRIBUTING.md).
+Ce travail est une traduction du projet datacurator-filetree.

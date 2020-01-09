@@ -1,8 +1,6 @@
-# Content
+# Contenu
 
-collections of data, typically in tabular format 
-
-
+collections de données, généralement sous forme de tableaux
 
 
 

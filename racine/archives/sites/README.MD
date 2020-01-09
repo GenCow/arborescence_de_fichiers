@@ -1,13 +1,13 @@
-## Content
+## Contenu
 
-Basically snapshots/dumps/rips of a given website/webapp bound to a point in time.
+Essentiellement des copies de site web à un moment donné.
 
-## Sub-Sections
+## Sous-sections
 
-→ High Level Domains which then contain raw dumps of a webpage, ideally seperated by a timestamp.
+→ Les domaines de haut niveau qui contiennent alors les données brutes d'une page Web, idéalement séparées par un horodatage.
 
-## Patterns
+## Patron
 
-## Resurces
+## Ressources
 
 - https://archive.org/

@@ -1,3 +1,3 @@
-# Content
+# Contenu
 
-non-filetree backups e.g old phone data
+sauvegardes non-arborescente, par exemple les anciennes données téléphoniques

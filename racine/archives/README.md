@@ -1,22 +1,22 @@
-## Content
+## Contenu
 
-The archives section has the least strict rules about file allocation for any top-level directory, however, it is still important that it is understood what can go in the section and what cannot. Generally, any particular file that you struggle to allocate to any top-level directory can typically be put into the archives directory, as those files will typically be for 'archival' purposes. The only potential exception is creative assets, as these can often be actively used, so these could also be split into a new top-level directory if you choose.
+La section archives a les règles les moins strictes sur la distribution des fichiers de tous les répertoires du premier niveau, cependant, il est toujours important de comprendre ce qui peut aller dans la section et inversement. En général, tout fichier particulier que vous avez du mal à attribuer à un répertoire du premier niveau peut être placé dans le répertoire archives, car ces fichiers sont généralement destinés à des fins d'"archivage". La seule exception potentielle est celle des ressources créatives, qui peuvent souvent être utilisées et qui peuvent donc être séparées dans un nouveau répertoire du premier niveau.
 
-## Sub-Sections
+## Sous-sections
 
-| Folder   | Contents                                                     |
+| Dossier  | Contenu                                                      |
 | -------- | ------------------------------------------------------------ |
-| assets   | any useful data/material for projects, may include all file types |
-| backups  | non-filetree backups e.g old phone data                      |
-| datasets | collections of data, typically in tabular format             |
-| news     | information/intel about events/history, including leaked confidential data. |
-| websites | snapshots of websites at a specific time                     |
+| atouts   | toute donnée/matériel utile pour des projets, peut inclure tous les types de fichiers |
+| sauvegardes | sauvegardes non-arborescente, par exemple les anciennes données téléphoniques |
+| ensemble | des collections de données, généralement sous forme de tableaux |
+| évènements | information sur des événements, y compris les données confidentielles ayant fait l'objet d'une fuite |
+| sites    | clichés de sites Web à un moment précis                      |
 |          |                                                              |
 
 
 
-## Patterns
+## Patrons
 
 
 
-## Resources
+## Ressources

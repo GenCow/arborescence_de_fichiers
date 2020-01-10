@@ -1,22 +1,22 @@
-## Content
+## Contenu
 
-Images may include, but is not limited to:
+Les images peuvent inclure, sans toutefois s'y limiter :
 
-| Category | Description |
-|----------|-------------|
-| Artwork      | Visual artwork, e.g paintings, drawings, sculpture, design           |
-| Animated     | Images involving a series of images that appear as if they are moving, e.g gifs |
-| Charts       | Graphical representations of data, e.g graphs, chloropleth maps           |
-| Memes        | Internet memes, primarily created for humor           |
-| Photos       | Images that are taken of real life           |
-| Purpose-based | Subcategories of types of images that are used for a specific purpose
-| Screenshots  | Digital images of what appears on a screen           |
+| Catégorie | Description |
+|-----------|-------------|
+| Travaux artistiques | Travaux d'art visuel, par exemple peintures, dessins, sculptures, graphisme |
+| Animation           | Images impliquant une série d'images qui apparaissent comme si elles étaient en mouvement, par exemple les gifs |
+| Graphiques          | Représentations graphiques de données, p. ex. graphiques, cartes de chloroplèthe |
+| Mèmes               | Mèmes Internet, principalement créés pour l'humour |
+| Photos       | Images qui sont faites dans la vie réelle |
+| A but | Sous-catégories de types d'images utilisées dans un but précis
+| Captures d'écran  | Images numériques de ce qui apparaît sur un écran |
 
-## Patterns
+## Patron
 
 TODO
 
-## Resources
+## Ressources
 
 * https://en.wikipedia.org/wiki/Image
 * https://en.wikipedia.org/wiki/Work_of_art

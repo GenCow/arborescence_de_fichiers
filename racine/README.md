@@ -13,10 +13,10 @@ La **racine** définit plusieurs *sections principales*. Ces sections principale
 | adulte     | Contenu pour adulte est séparé dans son propre dossier.      |
 | archives   | Sites Web, ensembles de données, sauvegardes et décharges, ...  |
 | audio      | Musique, sons, balados, audio de jeux, ...                   |
-| documents  | Documents personnels (factures, photos, sauvegardes, ..)     |
+| documentation | livres, écrits, documents scientifiques, articles, ...    |
+| documents personnels  | Documents personnels (factures, photos, sauvegardes, ..)     |
 | images     | Art, photographie, fanart                                    |
 | jeux       | Jeux de société, jeux de cartes, jeux vidéo, arcade, réalité virtuelle, ... |
-| documentation | livres, écrits, documents scientifiques, articles, ...    |
 | logiciel   | Logiciels, applications mobiles, systèmes d'exploitation     |
 | vidéo      | Films, courts-métrages, émissions de télévision, ...         |
 

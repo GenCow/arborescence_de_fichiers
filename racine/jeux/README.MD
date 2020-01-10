@@ -1,13 +1,13 @@
-## Content
+## Contenu
 
-## Sub-Sections
+## Sous-sections
 
-## Patterns
+## Patrons
 
-## Resources
+## Ressources
 
 ## Notes
 
-* Games =! VideoGames
-* There is boardgames, cardgames, etc..
-* how to group? currently grouped as 'interactive'
+* Jeux = ! VideoGames
+* Il y a des jeux de société, des jeux de cartes, etc.
+* Comment grouper ? Actuellement groupé comme 'interactif'.
